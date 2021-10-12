@@ -2,18 +2,22 @@
 
 An implementation for [Tweed Card](https://leonidasesteban.com/proyectos/tweed-card) designs using [url_launcher](https://pub.dev/packages/url_launcher) and a heartbeats' animation.
 
-###Desktop
+### Desktop
+
 ![Desktop design](https://github.com/deam91/tweed_card_demo/blob/main/assets/designs/originals/Desktop.png?raw=true)
 
-###Mobile
+### Mobile
+
 ![Mobile design](https://github.com/deam91/tweed_card_demo/blob/main/assets/designs/originals/Mobile.png?raw=true)
 
-##Screenshots
+## Screenshots
 
-###Mobile
+### Mobile
+
 ![Mobile design](https://github.com/deam91/tweed_card_demo/blob/main/assets/designs/mobile-screenshot.png?raw=true)
 
-###Desktop
+### Desktop
+
 ![Desktop design](https://github.com/deam91/tweed_card_demo/blob/main/assets/designs/desktop-screenshot.png?raw=true)
 
 ## Getting Started
